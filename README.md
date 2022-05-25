@@ -9,6 +9,8 @@
 4 : Exit
 
 class LOTTO
+{
 draw()
 show()
 stat()
+}
